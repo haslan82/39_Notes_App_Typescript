@@ -1,3 +1,7 @@
+Readme ye githuptan ekleme yaptım
+
+
+
 # Kütüphaneler
 
 - react-router-dom

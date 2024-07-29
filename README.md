@@ -1,4 +1,5 @@
 Readme ye githuptan ekleme yaptım
+Readme güncellememi git pull origin main koduyla yaptım
 
 
 

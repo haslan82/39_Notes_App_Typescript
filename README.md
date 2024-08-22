@@ -1,8 +1,3 @@
-Readme ye githuptan ekleme yaptım
-Readme güncellememi git pull origin main koduyla yaptım
-
-
-
 # Kütüphaneler
 
 - react-router-dom
@@ -11,6 +6,12 @@ Readme güncellememi git pull origin main koduyla yaptım
 - react-markdown
 - react-select
 - uuid
+
+
+
+##  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a>
+
+
 
 # Web Projesi Yyayınlama Adımları
 

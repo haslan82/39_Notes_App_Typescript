@@ -9,7 +9,7 @@
 
 # GIF
 
-![](./public/Aug-25-2024%2018-00-12.gif) yeni
+![](./public/Aug-25-2024%2021-53-06.gif) yeni
 
 ##  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a>
 

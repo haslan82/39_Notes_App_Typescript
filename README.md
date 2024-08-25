@@ -1,3 +1,8 @@
+# NOTES_APP_TS
+
+Bu proje, React, Vite ve TypeScript kullanılarak geliştirilmiş bir not uygulamasıdır. Uygulama, kullanıcıların not oluşturma, silme, düzenleme, etiket ekleme ve başlık ile etikete göre filtreleme gibi işlevleri yerine getirmesine olanak tanır. Performansın artırılması için başlık filtrelemesinde debounce tekniği uygulanmıştır. Ayrıca, markdown desteği ile zengin metin biçimlendirme imkanı sunan uygulama, modern web teknolojileri ve kütüphanelerle (React, TypeScript, Bootstrap, React Router DOM, vb.) inşa edilmiştir.
+
+
 # Kütüphaneler
 
 - react-router-dom
@@ -6,6 +11,7 @@
 - react-markdown
 - react-select
 - uuid
+- typescript
 
 # GIF
 

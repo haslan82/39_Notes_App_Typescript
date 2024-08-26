@@ -15,7 +15,7 @@ Bu proje, React, Vite ve TypeScript kullanılarak geliştirilmiş bir not uygula
 
 ### Canlı Proje 
 
-- 39-notes-app-typescript.vercel.app
+- https://39-notes-app-typescript.vercel.app
 
 ### Gif
 

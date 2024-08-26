@@ -13,6 +13,10 @@ Bu proje, React, Vite ve TypeScript kullanılarak geliştirilmiş bir not uygula
 - uuid
 - typescript
 
+### Canlı Proje 
+
+- 39-notes-app-typescript.vercel.app
+
 ### Gif
 
 ![](./public/Aug-25-2024%2021-53-06.gif) 

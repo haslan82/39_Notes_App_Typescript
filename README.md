@@ -35,7 +35,7 @@ Bu proje, React, Vite ve TypeScript kullanılarak geliştirilmiş bir not uygula
 
 
 
-# Web Projesi Yyayınlama Adımları
+#### Web Projesi Yyayınlama Adımları
 
 1. Projenizi hazırlayın.
 2. Alan adı (Domain) kirala.
@@ -45,17 +45,17 @@ Bu proje, React, Vite ve TypeScript kullanılarak geliştirilmiş bir not uygula
 6. Web sitesini kontrol et.
 7. SEO Kontrolü / İyileştirmesi yapılır
 
-# Domain
+#### Domain
 
 - İnternetteki adresinizdir. Örneğin www.eticaret.com.
 - Domain kiralamak için (godaddy,namecheap,isimtescil) vb kullanlabilir.
 
-# Hosting
+#### Hosting
 
 - Web sitemizi barındıran sunucudur. Web sitemizin dosyslarını bu sunucuda tuutarız ve internet üzerindeki diğer insanlar tarafından erişilebilir hale getiririz.
 - Hosting sağlayacıları (Netlify,vercel,heroku,aws) vs.
 
-## DNS Kayıt Tülrleri
+#### DNS Kayıt Tülrleri
 
 1. A (Adress) Kaydı: Bir alan adını doğrudan IP adresine yönlendirir.
 
@@ -67,11 +67,11 @@ Bu proje, React, Vite ve TypeScript kullanılarak geliştirilmiş bir not uygula
 
 - Örneğin "shop.furkanevin.xyz" > CNAME ile "wwww.furkanevin.xyz"'e yönlendirebiliriz.
 
-# SEO - Search Engine Optimization
+#### SEO - Search Engine Optimization
 
 - Arama Motoru Optimizasyonu
 
-## On-Page Seo
+#### On-Page Seo
 
 - web sitenin içeriğini ve yapısını optimize etmeye içerir
 - anahtar kelime kullanımı
@@ -82,7 +82,7 @@ Bu proje, React, Vite ve TypeScript kullanılarak geliştirilmiş bir not uygula
 - sayfa yüklenme hızları
 - mobil uyumluğu
 
-## Off-Page Seo
+#### Off-Page Seo
 
 - backlink: diğer websitlerinden kendi sitemize doğru gelen bağlantılar almak sitenin otoritesini arttırır.
 - sosyal medya paylaşımları
